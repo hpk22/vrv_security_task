@@ -29,3 +29,6 @@ The tool processes web server logs, identifies key patterns, and generates a det
 1. Clone the repository:
    ```bash
    git clone <https://github.com/hpk22/vrv_security_task>
+### Running the analyser
+python log_analysis.py 
+
